@@ -8,3 +8,12 @@ note: χρείαζεται μερικές ώρες να για να γίνει a
 ![image](https://user-images.githubusercontent.com/39650065/209312367-2fb48973-9218-445e-b66a-0c3080b5af1b.png)
 
 Για ότι χρειαστούμε τα private key/ certificate dm για να σου δείξω που τα βρήσκουμε
+
+- έχω βάλει favicon + logo χρησιμοποιόντας open AI.
+- Έχει γίνει το αρχικό installation του WooCommers και χρειάζεται να του πετάξουμε products για να αρχίζει να λειτουργεί
+
+### Σημαντικές ελλείψεις
+
+- Gamefication ( πόντους, κουπόνια κλπ )
+- Συνεργασία με άλλη ομάδα
+- Marketing, Swot και γενικός ότι θέλουμε για το paperwork
