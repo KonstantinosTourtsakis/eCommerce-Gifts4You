@@ -9,4 +9,4 @@ A repository to save website assets for the eCommerce assignment
 
 # preview
 
-![screencapture-gifts4you-epizy-2022-12-23-14_27_22](https://user-images.githubusercontent.com/39650065/209336309-eb990330-0633-45d8-81d3-807c5313f00b.png)
+![image](https://user-images.githubusercontent.com/39650065/209361348-7ed8e8be-802b-4d38-85c5-116fcae97d25.png)
