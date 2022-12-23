@@ -1,5 +1,5 @@
 # eCommerce-Gifts4You
-A repository to save website assets for the eCommerce assignment
+A repository to save website assets for the eCommerce assignment. In each branch we can find a progress repor. 
 
 # Links 🔗
 
